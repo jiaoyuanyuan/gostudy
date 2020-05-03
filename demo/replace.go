@@ -1,4 +1,4 @@
-package demo
+package main
 import "fmt"
 func main(){
     s := "qwertyuiop"

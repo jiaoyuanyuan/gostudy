@@ -1,8 +1,7 @@
-package demo
+package main
 
 import (
 	"fmt"
-	_ "github.com/shopspring/decimal"
 	"math"
 	"github.com/shopspring/decimal"
 )
